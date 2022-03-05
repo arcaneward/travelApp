@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/08eaa9a9-ec2d-4003-b33f-080e32feddf0/deploy-status)](https://app.netlify.com/sites/travelappbuddy/deploys)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
